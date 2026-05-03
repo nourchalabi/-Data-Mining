@@ -175,12 +175,3 @@ data-mining/
 
 ---
 
-## 👨‍💻 Author
-
-Your Name
-
----
-
-## 📄 License
-
-This project is for academic purposes.
